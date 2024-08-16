@@ -1,3 +1,21 @@
+
+
+# 📦 Required Packages
+
+To install all the necessary packages for this script, use the following commands:
+
+```bash
+pip install --upgrade pip
+pip install -U telethon
+pip install psutil
+pip install asyncio
+pip install aiocron
+pip install pytz
+pip install googletrans==4.0.0-rc1
+pip install gtts
+pip install requests
+```
+
 # Telegram-SelfBot
 Telegram SelfBot
 <!-- باکس انگلیسی -->
@@ -71,3 +89,14 @@ Telegram SelfBot
     همین حالا سلف‌بات خود را دریافت کنید
   </a>
 </div>
+
+
+
+
+<p style="color: #6A1B1A; font-size: 16px; text-align: center; margin-top: 40px;">
+  Made by Mahdi Najari
+</p>
+
+<p style="color: #6A1B1A; font-size: 16px; text-align: center; margin-top: 40px;">
+  ساخته شده توسط مهدی نجاری
+</p>
